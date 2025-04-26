@@ -23,9 +23,3 @@ locust | Jmeter | LoarRunner
 
 ## 📫 Контакты
 - [Telegram](@chirkovroman)
-
- 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChirkovRoman1984&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ChirkovRoman1984&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChirkovRoman1984&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
