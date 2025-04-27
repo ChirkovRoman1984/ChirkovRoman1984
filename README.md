@@ -22,4 +22,4 @@ locust | Jmeter | LoarRunner
 
 
 ## 📫 Контакты
-- [Telegram](@chirkovroman)
+- [Telegram](https://t.me/chirkovroman)
